@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"f7fa8fc46281fdb9","type":"text","text":"RGB","x":-160,"y":-20,"width":241,"height":68},
+		{"id":"a84825edc224e5b7","type":"text","text":"depth image","x":-160,"y":89,"width":241,"height":60},
+		{"id":"46811187073ec473","x":226,"y":149,"width":214,"height":51,"type":"file","file":"大创/论文学习/DINOv1.md"},
+		{"id":"1133794cbd2f3067","x":226,"y":-129,"width":214,"height":60,"type":"text","text":"depthanything vit"}
+	],
+	"edges":[
+		{"id":"a7a3ad2b9dd958fe","fromNode":"f7fa8fc46281fdb9","fromSide":"right","toNode":"46811187073ec473","toSide":"left"},
+		{"id":"56bf59b852cd1ec2","fromNode":"f7fa8fc46281fdb9","fromSide":"right","toNode":"1133794cbd2f3067","toSide":"left"}
+	]
+}
