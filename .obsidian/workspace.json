@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/最优估计/第五章/卡尔曼滤波公式推导.md",
+                "file": "工具配置/claude配置.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "卡尔曼滤波公式推导"
+              "title": "claude配置"
             }
           }
         ],
@@ -192,12 +192,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "8f46541ea3566025",
+  "active": "a56457a3a6f9d2a6",
   "lastOpenFiles": [
+    "课程/最优估计/第五章/卡尔曼滤波公式推导.md",
+    "工具配置/claude配置.md",
     "附件/附件/气溶胶_云星载激光雷达数据反演算法初步研究_于娜娜（CALIPSO星载激光雷达介绍）.pdf",
     "附件/附件/a534c6ca1326d660d9977e63db0acbd7.jpg",
     "附件/附件/Pasted image 20260419165122.png",
@@ -234,7 +235,6 @@
     "编程笔记/matlab/函数/flipud.md",
     "编程笔记/matlab/函数/find.md",
     "编程笔记/matlab/函数/fieldnames.md",
-    "编程笔记/matlab/函数/eval.md",
     "编程笔记/matlab/语法",
     "编程笔记/matlab/数据结构",
     "编程笔记/matlab/工具",
@@ -243,7 +243,6 @@
     "编程笔记",
     "组会",
     "模板/template/课程",
-    "模板/template",
     "课程/卫星导航编程算法/未命名.canvas",
     "大创/未命名.canvas",
     "课程/未命名.canvas",
