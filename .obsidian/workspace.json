@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "761d7b74e2f738e9",
+    "id": "d3c7add6456aaf62",
     "type": "split",
     "children": [
       {
-        "id": "8fbcfe9a3454974c",
+        "id": "d7c7a7604061772a",
         "type": "tabs",
         "children": [
           {
-            "id": "21d31b9d345e8561",
+            "id": "a56457a3a6f9d2a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大二下学期课程/最优估计/第六章/6.3平方根信息滤波.md",
+                "file": "课程/最优估计/第五章/卡尔曼滤波公式推导.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,24 +28,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6.3平方根信息滤波"
+              "title": "卡尔曼滤波公式推导"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b388bda334c103c6",
+    "id": "37a5d32f5f81c6fa",
     "type": "split",
     "children": [
       {
-        "id": "4d49f3eeab05f7d2",
+        "id": "a3b75bcf32cefe97",
         "type": "tabs",
         "children": [
           {
-            "id": "e48b9cede8322651",
+            "id": "8f46541ea3566025",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +59,12 @@
             }
           },
           {
-            "id": "7164115745a1c8c9",
+            "id": "9ab83a78c3d6c0b1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "KL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,13 +76,13 @@
             }
           },
           {
-            "id": "1ffb60ac1937f265",
+            "id": "7662faf3aea4158e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -91,55 +92,41 @@
     "width": 300
   },
   "right": {
-    "id": "cb10bacf2f825a41",
+    "id": "f69b50a1069d63b6",
     "type": "split",
     "children": [
       {
-        "id": "5ecb60577d10c9a5",
+        "id": "59d87a4f31470431",
         "type": "tabs",
         "children": [
           {
-            "id": "90687d20d30aedaa",
+            "id": "18161e3d41783f5f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "朴素贝叶斯分类器.md",
+                "file": "2026-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "朴素贝叶斯分类器 的反向链接列表"
-            }
-          },
-          {
-            "id": "fdaf2d5d598085be",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "机器学习/神经网络的使用.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "神经网络的使用 的出链列表"
+              "icon": "links-coming-in",
+              "title": "2026-03-16 的反向链接列表"
             }
           },
           {
-            "id": "8fea465e05f255f4",
+            "id": "91e401147d28fbc5",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -147,7 +134,21 @@
             }
           },
           {
-            "id": "8556ae5ede838b25",
+            "id": "4943b36b9821f9a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-03-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "2026-03-16 的出链列表"
+            }
+          },
+          {
+            "id": "7a6a5bf08ff5d5d3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,20 +162,22 @@
             }
           },
           {
-            "id": "cd57257541f9945a",
+            "id": "8cfd296aa41184b8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "课程/最优估计/4.2可控性与可测性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "4.2可控性与可测性 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -183,53 +186,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "e48b9cede8322651",
+  "active": "8f46541ea3566025",
   "lastOpenFiles": [
-    "金冉的知识/2026-04-17.md",
-    "金冉的知识/2026-04-14.md",
-    "大二下学期课程/最优估计/第六章/6.3平方根信息滤波.md",
-    "金冉的知识/2026-03-16.md",
-    "大二下学期课程/最优估计/第六章 改进的卡尔曼滤波.md",
-    "机器学习/归一化方法/层归一化.md",
-    "大创/论文学习/马尔可夫效应.md",
-    "编程/类与继承/继承语法.md",
-    "大二下学期课程/机器学习/贝叶斯分类器.md",
-    "大二下学期课程/卫星导航编程算法/一些编程的基础常识/语法/类型转换.md",
-    "大二下学期课程/卫星导航编程算法/一些编程的基础常识/语法/map.md",
-    "大二下学期课程/卫星导航编程算法/一些编程的基础常识/语法/typedef.md",
-    "大二下学期课程/卫星导航编程算法/一些编程的基础常识/语法/enum.md",
-    "大二下学期课程/卫星导航编程算法/一些编程的基础常识/语法/auto.md",
-    "大二下学期课程/卫星导航编程算法/一些编程的基础常识/c++的程序编译/链接.md",
-    "机器学习/神经网络/序列模型/word embedding/类比推理.md",
-    "大二下学期课程/卫星导航编程算法/一些编程的基础常识/c++的程序编译/编译.md",
-    "机器学习/神经网络/序列模型/word embedding/词的表示.md",
-    "大二下学期课程/卫星导航编程算法/一些编程的基础常识/c++的程序编译/include.md",
-    "机器学习/神经网络/序列模型/word embedding/嵌入矩阵.md",
-    "机器学习/神经网络/序列模型/word embedding/余弦相似度.md",
-    "机器学习/神经网络/序列模型/word embedding/学习词嵌入.md",
-    "机器学习/神经网络/序列模型/word embedding/featurized representation.md",
-    "机器学习/神经网络/序列模型/word embedding/1-hot representation.md",
-    "机器学习/神经网络/序列模型/transformer/多头注意力机制.md",
-    "机器学习/神经网络/序列模型/transformer/ViT.md",
-    "大二下学期课程/卫星导航编程算法/一些编程的基础常识/语法",
-    "大二下学期课程/卫星导航编程算法/一些编程的基础常识/c++的程序编译",
-    "机器学习/神经网络/序列模型/word embedding",
-    "机器学习/神经网络/序列模型/transformer",
-    "大二下学期课程/自动控制原理/第五章",
-    "大二下学期课程/自动控制原理/第二章",
-    "大二下学期课程/自动控制原理/第三章",
-    "大二下学期课程/自动控制原理/第一章",
-    "大二下学期课程/最优估计/第四章",
-    "大二下学期课程/最优估计/第六章",
+    "附件/附件/气溶胶_云星载激光雷达数据反演算法初步研究_于娜娜（CALIPSO星载激光雷达介绍）.pdf",
+    "附件/附件/a534c6ca1326d660d9977e63db0acbd7.jpg",
     "附件/附件/Pasted image 20260419165122.png",
     "附件/附件/Pasted image 20260419165110.png",
     "附件/附件/Pasted image 20260419165044.png",
@@ -239,8 +209,44 @@
     "附件/附件/Pasted image 20260419151604.png",
     "附件/附件/Pasted image 20260419151540.png",
     "附件/附件/Pasted image 20260419151424.png",
-    "附件/附件/Pasted image 20260419151347.png",
+    "附件/附件",
+    "编程笔记/matlab/语法/循环.md",
+    "编程笔记/matlab/语法/try-catch.md",
+    "编程笔记/matlab/数据结构/逻辑数组.md",
+    "编程笔记/matlab/数据结构/结构体数组.md",
+    "编程笔记/matlab/数据结构/结构体.md",
+    "编程笔记/matlab/数据结构/数组.md",
+    "编程笔记/matlab/数据结构/字典.md",
+    "编程笔记/matlab/数据结构/函数句柄.md",
+    "编程笔记/matlab/数据结构/cell.md",
+    "编程笔记/matlab/函数/自定义函数.md",
+    "编程笔记/matlab/函数/strfind.md",
+    "编程笔记/matlab/函数/strcmp.md",
+    "编程笔记/matlab/函数/size.md",
+    "编程笔记/matlab/函数/round.md",
+    "编程笔记/matlab/函数/regexp.md",
+    "编程笔记/matlab/函数/isstruct.md",
+    "编程笔记/matlab/函数/isnan.md",
+    "编程笔记/matlab/函数/isempty.md",
+    "编程笔记/matlab/函数/intersect.md",
+    "编程笔记/matlab/函数/floor.md",
+    "编程笔记/matlab/函数/hdfread.md",
+    "编程笔记/matlab/函数/flipud.md",
+    "编程笔记/matlab/函数/find.md",
+    "编程笔记/matlab/函数/fieldnames.md",
+    "编程笔记/matlab/函数/eval.md",
+    "编程笔记/matlab/语法",
+    "编程笔记/matlab/数据结构",
+    "编程笔记/matlab/工具",
+    "编程笔记/matlab/函数",
+    "编程笔记/matlab",
+    "编程笔记",
+    "组会",
+    "模板/template/课程",
+    "模板/template",
+    "课程/卫星导航编程算法/未命名.canvas",
     "大创/未命名.canvas",
-    "机器学习/未命名.canvas"
+    "课程/未命名.canvas",
+    "Untitled.canvas"
   ]
 }
