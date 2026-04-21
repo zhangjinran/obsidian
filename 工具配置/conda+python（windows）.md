@@ -1,0 +1,1 @@
+[一步步教你在 Windows 上轻松安装 Anaconda以及使用常用conda命令（超详细）_windows anaconda-CSDN博客](https://blog.csdn.net/Natsuago/article/details/143081283)
