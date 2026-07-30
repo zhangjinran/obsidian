@@ -1,0 +1,30 @@
+vault:
+  name: "金冉的知识"
+
+directories:
+  required:
+    - 00-inbox
+    - 01-daily
+    - 02-projects
+    - 03-areas
+    - 04-resources
+    - 05-people
+    - 06-meetings
+    - 07-ideas
+    - 08-archive
+    - 09-tools
+    - 10-knowledge
+    - _templates
+    - _attachments
+
+  optional:
+    - 09-decisions
+    - 10-standups
+    - 10-lists
+    - 09-journal
+
+  ignored:
+    - .obsidian
+    - .git
+    - .trash
+    - node_modules

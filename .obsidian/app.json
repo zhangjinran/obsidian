@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "附件",
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "_attachments",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

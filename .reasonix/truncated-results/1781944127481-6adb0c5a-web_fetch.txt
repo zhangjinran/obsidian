@@ -1,0 +1,651 @@
+https://api.github.com/repos/openclaw/openclaw/contents/skills
+
+[
+  {
+    "name": "1password",
+    "path": "skills/1password",
+    "sha": "d8ea850d4c6a0ba71e6ad40e16a33bc18a0e0f1b",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/1password?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/1password",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/d8ea850d4c6a0ba71e6ad40e16a33bc18a0e0f1b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/1password?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/d8ea850d4c6a0ba71e6ad40e16a33bc18a0e0f1b",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/1password"
+    }
+  },
+  {
+    "name": "apple-notes",
+    "path": "skills/apple-notes",
+    "sha": "e0cdd81b11da51403be36051d0dfacdb190ecff1",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/apple-notes?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/apple-notes",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/e0cdd81b11da51403be36051d0dfacdb190ecff1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/apple-notes?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/e0cdd81b11da51403be36051d0dfacdb190ecff1",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/apple-notes"
+    }
+  },
+  {
+    "name": "apple-reminders",
+    "path": "skills/apple-reminders",
+    "sha": "121f1ad66c4d07dd7184bea2b6d465d696e7c065",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/apple-reminders?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/apple-reminders",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/121f1ad66c4d07dd7184bea2b6d465d696e7c065",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/apple-reminders?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/121f1ad66c4d07dd7184bea2b6d465d696e7c065",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/apple-reminders"
+    }
+  },
+  {
+    "name": "bear-notes",
+    "path": "skills/bear-notes",
+    "sha": "30f1c680f12e376c30c913eb09c672086599cdb5",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/bear-notes?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/bear-notes",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/30f1c680f12e376c30c913eb09c672086599cdb5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/bear-notes?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/30f1c680f12e376c30c913eb09c672086599cdb5",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/bear-notes"
+    }
+  },
+  {
+    "name": "blogwatcher",
+    "path": "skills/blogwatcher",
+    "sha": "075556f2cea38c5df9f07c82819a6adbb1efbc53",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/blogwatcher?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/075556f2cea38c5df9f07c82819a6adbb1efbc53",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/blogwatcher?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/075556f2cea38c5df9f07c82819a6adbb1efbc53",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher"
+    }
+  },
+  {
+    "name": "blucli",
+    "path": "skills/blucli",
+    "sha": "b3457cdef809c1d67cc242d90633ce69928e5574",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/blucli?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/blucli",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/b3457cdef809c1d67cc242d90633ce69928e5574",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/blucli?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/b3457cdef809c1d67cc242d90633ce69928e5574",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/blucli"
+    }
+  },
+  {
+    "name": "camsnap",
+    "path": "skills/camsnap",
+    "sha": "e876ae9ad5f853b3b62175b9df9181db2517ac0e",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/camsnap?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/camsnap",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/e876ae9ad5f853b3b62175b9df9181db2517ac0e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/camsnap?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/e876ae9ad5f853b3b62175b9df9181db2517ac0e",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/camsnap"
+    }
+  },
+  {
+    "name": "canvas",
+    "path": "skills/canvas",
+    "sha": "ab3b5249257f0ec226d8e012afb6f78e4696a0fc",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/canvas?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/canvas",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/ab3b5249257f0ec226d8e012afb6f78e4696a0fc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/canvas?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/ab3b5249257f0ec226d8e012afb6f78e4696a0fc",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/canvas"
+    }
+  },
+  {
+    "name": "clawhub",
+    "path": "skills/clawhub",
+    "sha": "01faf0258f781f426871077265c56c67174447e4",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/clawhub?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/clawhub",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/01faf0258f781f426871077265c56c67174447e4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/clawhub?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/01faf0258f781f426871077265c56c67174447e4",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/clawhub"
+    }
+  },
+  {
+    "name": "coding-agent",
+    "path": "skills/coding-agent",
+    "sha": "74e69113b7805cd6a37095da7d0509456129b8af",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/coding-agent?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/coding-agent",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/74e69113b7805cd6a37095da7d0509456129b8af",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/coding-agent?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/74e69113b7805cd6a37095da7d0509456129b8af",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/coding-agent"
+    }
+  },
+  {
+    "name": "diagram-maker",
+    "path": "skills/diagram-maker",
+    "sha": "2e6f6de8eb973004ab86c5d480a60463c6bfe6f6",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/diagram-maker?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/diagram-maker",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/2e6f6de8eb973004ab86c5d480a60463c6bfe6f6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/diagram-maker?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/2e6f6de8eb973004ab86c5d480a60463c6bfe6f6",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/diagram-maker"
+    }
+  },
+  {
+    "name": "discord",
+    "path": "skills/discord",
+    "sha": "671d1146f020c4db5f2a1ed32c118f550394c38f",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/discord?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/discord",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/671d1146f020c4db5f2a1ed32c118f550394c38f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/discord?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/671d1146f020c4db5f2a1ed32c118f550394c38f",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/discord"
+    }
+  },
+  {
+    "name": "eightctl",
+    "path": "skills/eightctl",
+    "sha": "32a760dfa2e534724cb39b464880bb5339dd1da8",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/eightctl?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/eightctl",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/32a760dfa2e534724cb39b464880bb5339dd1da8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/eightctl?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/32a760dfa2e534724cb39b464880bb5339dd1da8",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/eightctl"
+    }
+  },
+  {
+    "name": "gemini",
+    "path": "skills/gemini",
+    "sha": "2d8ca00fc335c5109994b2c481eb2866b9f6abb8",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/gemini?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/gemini",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/2d8ca00fc335c5109994b2c481eb2866b9f6abb8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/gemini?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/2d8ca00fc335c5109994b2c481eb2866b9f6abb8",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/gemini"
+    }
+  },
+  {
+    "name": "gh-issues",
+    "path": "skills/gh-issues",
+    "sha": "8bc368974f76370295c2e2cd2a282317fbe57c61",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/gh-issues?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/gh-issues",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/8bc368974f76370295c2e2cd2a282317fbe57c61",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/gh-issues?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/8bc368974f76370295c2e2cd2a282317fbe57c61",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/gh-issues"
+    }
+  },
+  {
+    "name": "gifgrep",
+    "path": "skills/gifgrep",
+    "sha": "e2765d72e5eaeeeca3877fb8aaf3b7a3c977f757",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/gifgrep?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/gifgrep",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/e2765d72e5eaeeeca3877fb8aaf3b7a3c977f757",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/gifgrep?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/e2765d72e5eaeeeca3877fb8aaf3b7a3c977f757",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/gifgrep"
+    }
+  },
+  {
+    "name": "github",
+    "path": "skills/github",
+    "sha": "8a98723139d287abd2af7d29c568411a379f2197",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/github?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/github",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/8a98723139d287abd2af7d29c568411a379f2197",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/github?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/8a98723139d287abd2af7d29c568411a379f2197",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/github"
+    }
+  },
+  {
+    "name": "gog",
+    "path": "skills/gog",
+    "sha": "865fadff4c3fcc3db2bb68e64f323c7a5562c5da",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/gog?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/gog",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/865fadff4c3fcc3db2bb68e64f323c7a5562c5da",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/gog?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/865fadff4c3fcc3db2bb68e64f323c7a5562c5da",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/gog"
+    }
+  },
+  {
+    "name": "goplaces",
+    "path": "skills/goplaces",
+    "sha": "23f2cb176fec5d980bec56da2ed04949ff5463bb",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/goplaces?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/goplaces",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/23f2cb176fec5d980bec56da2ed04949ff5463bb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/goplaces?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/23f2cb176fec5d980bec56da2ed04949ff5463bb",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/goplaces"
+    }
+  },
+  {
+    "name": "healthcheck",
+    "path": "skills/healthcheck",
+    "sha": "9162b096437706e3de0ffe7fd607b961219917da",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/healthcheck?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/healthcheck",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/9162b096437706e3de0ffe7fd607b961219917da",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/healthcheck?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/9162b096437706e3de0ffe7fd607b961219917da",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/healthcheck"
+    }
+  },
+  {
+    "name": "himalaya",
+    "path": "skills/himalaya",
+    "sha": "a4771fc3a8c81067262b4b80e4282a2b1ac3ebaa",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/himalaya?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/himalaya",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/a4771fc3a8c81067262b4b80e4282a2b1ac3ebaa",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/himalaya?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/a4771fc3a8c81067262b4b80e4282a2b1ac3ebaa",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/himalaya"
+    }
+  },
+  {
+    "name": "imsg",
+    "path": "skills/imsg",
+    "sha": "d22ea00a89f49cb1466dfa5e968f6d21d80bb997",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/imsg?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/imsg",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/d22ea00a89f49cb1466dfa5e968f6d21d80bb997",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/imsg?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/d22ea00a89f49cb1466dfa5e968f6d21d80bb997",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/imsg"
+    }
+  },
+  {
+    "name": "mcporter",
+    "path": "skills/mcporter",
+    "sha": "f8b951fadb4db6fd6f7b2cc287ca69e155ea4be4",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/mcporter?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/mcporter",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/f8b951fadb4db6fd6f7b2cc287ca69e155ea4be4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/mcporter?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/f8b951fadb4db6fd6f7b2cc287ca69e155ea4be4",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/mcporter"
+    }
+  },
+  {
+    "name": "meme-maker",
+    "path": "skills/meme-maker",
+    "sha": "c44a6b2e0bf7b5b0d9042c9a95e16d67fe41e6dd",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/meme-maker?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/meme-maker",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/c44a6b2e0bf7b5b0d9042c9a95e16d67fe41e6dd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/meme-maker?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/c44a6b2e0bf7b5b0d9042c9a95e16d67fe41e6dd",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/meme-maker"
+    }
+  },
+  {
+    "name": "model-usage",
+    "path": "skills/model-usage",
+    "sha": "44804bfda9ee67cab546f25fda84da31fb203596",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/model-usage?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/model-usage",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/44804bfda9ee67cab546f25fda84da31fb203596",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/model-usage?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/44804bfda9ee67cab546f25fda84da31fb203596",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/model-usage"
+    }
+  },
+  {
+    "name": "nano-pdf",
+    "path": "skills/nano-pdf",
+    "sha": "b87114af7d36790a473497b4ede043a6ecedc09f",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/nano-pdf?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/nano-pdf",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/b87114af7d36790a473497b4ede043a6ecedc09f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/nano-pdf?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/b87114af7d36790a473497b4ede043a6ecedc09f",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/nano-pdf"
+    }
+  },
+  {
+    "name": "node-connect",
+    "path": "skills/node-connect",
+    "sha": "dec9abc6d178cf484829b2d9ea1c4521fe5682aa",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/node-connect?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/node-connect",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/dec9abc6d178cf484829b2d9ea1c4521fe5682aa",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/node-connect?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/dec9abc6d178cf484829b2d9ea1c4521fe5682aa",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/node-connect"
+    }
+  },
+  {
+    "name": "node-inspect-debugger",
+    "path": "skills/node-inspect-debugger",
+    "sha": "94dffe02557318ae9b417f694c46faaa66c969cd",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/node-inspect-debugger?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/node-inspect-debugger",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/94dffe02557318ae9b417f694c46faaa66c969cd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/node-inspect-debugger?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/94dffe02557318ae9b417f694c46faaa66c969cd",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/node-inspect-debugger"
+    }
+  },
+  {
+    "name": "notion",
+    "path": "skills/notion",
+    "sha": "d2e041c19097a66fa22c89991690aa69c7616895",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/notion?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/notion",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/d2e041c19097a66fa22c89991690aa69c7616895",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/notion?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/d2e041c19097a66fa22c89991690aa69c7616895",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/notion"
+    }
+  },
+  {
+    "name": "obsidian",
+    "path": "skills/obsidian",
+    "sha": "367656f4d5e05be9721750620ad9425071ad6546",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/obsidian?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/obsidian",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/367656f4d5e05be9721750620ad9425071ad6546",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/obsidian?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/367656f4d5e05be9721750620ad9425071ad6546",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/obsidian"
+    }
+  },
+  {
+    "name": "openai-whisper-api",
+    "path": "skills/openai-whisper-api",
+    "sha": "dd1930099e242b348334840b2157b0433379403a",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/openai-whisper-api?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/dd1930099e242b348334840b2157b0433379403a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/openai-whisper-api?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/dd1930099e242b348334840b2157b0433379403a",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api"
+    }
+  },
+  {
+    "name": "openai-whisper",
+    "path": "skills/openai-whisper",
+    "sha": "d638ee539f93ec0335c1c927118c01a6c58e4c13",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/openai-whisper?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/d638ee539f93ec0335c1c927118c01a6c58e4c13",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/openai-whisper?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/d638ee539f93ec0335c1c927118c01a6c58e4c13",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper"
+    }
+  },
+  {
+    "name": "openhue",
+    "path": "skills/openhue",
+    "sha": "fdd2d5796a76e54bd21256a160ac26f2ecd1a4f2",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/openhue?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/openhue",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/fdd2d5796a76e54bd21256a160ac26f2ecd1a4f2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/openhue?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/fdd2d5796a76e54bd21256a160ac26f2ecd1a4f2",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/openhue"
+    }
+  },
+  {
+    "name": "oracle",
+    "path": "skills/oracle",
+    "sha": "d2b32fe8f77680a6fce63d1ae2b068bfc1875626",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/oracle?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/oracle",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/d2b32fe8f77680a6fce63d1ae2b068bfc1875626",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/oracle?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/d2b32fe8f77680a6fce63d1ae2b068bfc1875626",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/oracle"
+    }
+  },
+  {
+    "name": "ordercli",
+    "path": "skills/ordercli",
+    "sha": "bbb607de7a1f322fc668d5ebc4fc7586211ec85c",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/ordercli?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/ordercli",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/bbb607de7a1f322fc668d5ebc4fc7586211ec85c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/ordercli?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/bbb607de7a1f322fc668d5ebc4fc7586211ec85c",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/ordercli"
+    }
+  },
+  {
+    "name": "peekaboo",
+    "path": "skills/peekaboo",
+    "sha": "0342af92627ff2a504a1a97c6c839334fd11b9ec",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/peekaboo?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/peekaboo",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/0342af92627ff2a504a1a97c6c839334fd11b9ec",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/peekaboo?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/0342af92627ff2a504a1a97c6c839334fd11b9ec",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/peekaboo"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "skills/pyproject.toml",
+    "sha": "b69da03be53b96b14799e0df97cf1238bb82db0b",
+    "size": 193,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/pyproject.toml?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/blob/main/skills/pyproject.toml",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/blobs/b69da03be53b96b14799e0df97cf1238bb82db0b",
+    "download_url": "https://raw.githubusercontent.com/openclaw/openclaw/main/skills/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/pyproject.toml?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/blobs/b69da03be53b96b14799e0df97cf1238bb82db0b",
+      "html": "https://github.com/openclaw/openclaw/blob/main/skills/pyproject.toml"
+    }
+  },
+  {
+    "name": "python-debugpy",
+    "path": "skills/python-debugpy",
+    "sha": "7b791461467b8c522b57ede724c87f9f931c3a4f",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/python-debugpy?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/python-debugpy",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/7b791461467b8c522b57ede724c87f9f931c3a4f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/python-debugpy?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/7b791461467b8c522b57ede724c87f9f931c3a4f",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/python-debugpy"
+    }
+  },
+  {
+    "name": "sag",
+    "path": "skills/sag",
+    "sha": "f01c051a33268028f329047daacaf9ca044f2ade",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/sag?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/sag",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/f01c051a33268028f329047daacaf9ca044f2ade",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/sag?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/f01c051a33268028f329047daacaf9ca044f2ade",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/sag"
+    }
+  },
+  {
+    "name": "session-logs",
+    "path": "skills/session-logs",
+    "sha": "64b49e34f37fdd3b2b0d99d38699d730ea7a88a0",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/contents/skills/session-logs?ref=main",
+    "html_url": "https://github.com/openclaw/openclaw/tree/main/skills/session-logs",
+    "git_url": "https://api.github.com/repos/openclaw/openclaw/git/trees/64b49e34f37fdd3b2b0d99d38699d730ea7a88a0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openclaw/openclaw/contents/skills/session-logs?ref=main",
+      "git": "https://api.github.com/repos/openclaw/openclaw/git/trees/64b49e34f37fdd3b2b0d99d38699d730ea7a88a0",
+      "html": "https://github.com/openclaw/openclaw/tree/main/skills/session-logs"
+    }
+  },
+  {
+    "name": "sherpa-onnx-tts",
+    "path": "skills/sherpa-onnx-tts",
+    "sha": "085ce1778452dc7558addca79986182b9711448b",
+    "size": 0,
+    "url": "https://api.github.com/repos/openclaw/openclaw/conte
+
+[… truncated 14038 chars …]

@@ -1,0 +1,16 @@
+scripts:
+  structure-check:
+    path: scripts/structure/structure-check.sh
+    description: "结构审计：检查 vault 目录结构是否符合 vault-schema.yaml"
+    usage: "bash scripts/structure/structure-check.sh <vault-path>"
+
+  process-inbox:
+    path: scripts/process-inbox.py
+    description: "处理收件箱，将 00-inbox/ 的笔记移到正确文件夹"
+    usage: "python scripts/process-inbox.py <vault-path> [--dry-run]"
+
+  vault-health-check:
+    path: scripts/vault-health-check.sh
+    description: "库健康检查（待修改，当前封存）"
+    usage: "bash scripts/vault-health-check.sh <vault-path> [--fix]"
+    status: pending-modification
